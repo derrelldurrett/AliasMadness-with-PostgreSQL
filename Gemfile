@@ -19,7 +19,7 @@ gem 'jquery-rails'
 gem 'nokogiri' # force the following gem updates
 gem 'pg'
 gem 'puma' # Use Puma as the app server
-gem 'rails', '~> 7.0.4'# Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
+gem 'rails', '~> 7.0.8'# Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'record_tag_helper'
 gem 'responders' # extend controller classes with respond_to
 gem 'rgl' # build and traverse graphs easily
